@@ -1,0 +1,7 @@
+body{
+    background-image: url('..//images/nuevo_editar_fondo.jpg');
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 110vh;
+  }
